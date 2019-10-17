@@ -1,0 +1,1 @@
+http://codeprogress.com/python/libraries/pyqt/showPyQTExample.php?key=PyQtQMessageBoxAutoClose&index=371
